@@ -2,7 +2,8 @@ body {
   font-family: monospace;
   line-height:150%;
   margin: 80px 0px;
-  background: url("../images/pink_bg.png")
+  /*background: url("../images/pink_bg.png")*/
+  background: url(https://b4x7y4f4.rocketcdn.me/wp-content/uploads/patterns2/C0241.jpg)
 }
 
 .container {
